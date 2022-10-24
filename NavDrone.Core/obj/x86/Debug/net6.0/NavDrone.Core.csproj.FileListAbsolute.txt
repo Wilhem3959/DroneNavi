@@ -1,0 +1,12 @@
+C:\Users\wilhe\source\repos\NavDrone\NavDrone.Core\bin\x86\Debug\net6.0\NavDrone.Core.deps.json
+C:\Users\wilhe\source\repos\NavDrone\NavDrone.Core\bin\x86\Debug\net6.0\NavDrone.Core.dll
+C:\Users\wilhe\source\repos\NavDrone\NavDrone.Core\bin\x86\Debug\net6.0\NavDrone.Core.pdb
+C:\Users\wilhe\source\repos\NavDrone\NavDrone.Core\obj\x86\Debug\net6.0\NavDrone.Core.csproj.AssemblyReference.cache
+C:\Users\wilhe\source\repos\NavDrone\NavDrone.Core\obj\x86\Debug\net6.0\NavDrone.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilhe\source\repos\NavDrone\NavDrone.Core\obj\x86\Debug\net6.0\NavDrone.Core.AssemblyInfoInputs.cache
+C:\Users\wilhe\source\repos\NavDrone\NavDrone.Core\obj\x86\Debug\net6.0\NavDrone.Core.AssemblyInfo.cs
+C:\Users\wilhe\source\repos\NavDrone\NavDrone.Core\obj\x86\Debug\net6.0\NavDrone.Core.csproj.CoreCompileInputs.cache
+C:\Users\wilhe\source\repos\NavDrone\NavDrone.Core\obj\x86\Debug\net6.0\NavDrone.Core.dll
+C:\Users\wilhe\source\repos\NavDrone\NavDrone.Core\obj\x86\Debug\net6.0\refint\NavDrone.Core.dll
+C:\Users\wilhe\source\repos\NavDrone\NavDrone.Core\obj\x86\Debug\net6.0\NavDrone.Core.pdb
+C:\Users\wilhe\source\repos\NavDrone\NavDrone.Core\obj\x86\Debug\net6.0\ref\NavDrone.Core.dll
